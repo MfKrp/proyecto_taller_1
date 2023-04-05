@@ -1,0 +1,38 @@
+/*ESTA HOJA DE ESTILOS CONTIENE CONFIGURACIONES PERSONALIZADAS PARA LA PAGINA PRINCIPAL.HTML, LAS CUALES NO PUEDEN SER MODIFICADAS A TRAVES DE BOOTSTRAP*/
+
+#play5_controller {
+    height: 4em;
+    width: 4em;
+}
+
+.helloworld {
+    color: red;
+}
+
+#GAMES-SECTION {
+    background-color: #aaf;
+}
+
+#COMPONENTS-SECTION {
+    background-color: #0f0;
+}
+
+#MAIN-SECTION {
+    background-color: #d22;
+}
+
+#PERIFERICS-SECTION {
+    background-color: #ff0b;
+}
+
+#CONSOLES-SECTION {
+    background-color: #0BF;
+}
+
+#SERVICES-SECTION {
+    background-color: #0bb;
+}
+
+#PAGE-FOOTER {
+    background-color: #f009;
+}
