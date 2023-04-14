@@ -1,12 +1,12 @@
 /*ESTA HOJA DE ESTILOS CONTIENE CONFIGURACIONES PERSONALIZADAS PARA LA PAGINA PRINCIPAL.HTML, LAS CUALES NO PUEDEN SER MODIFICADAS A TRAVES DE BOOTSTRAP*/
 
 #play5_controller {
-    height: 4em;
-    width: 4em;
+    height: 3em;
+    width: 3em;
 }
 
-.helloworld {
-    color: red;
+#MARKET-BRAND-ICON {
+    text-align: center;
 }
 
 #GAMES-SECTION {
