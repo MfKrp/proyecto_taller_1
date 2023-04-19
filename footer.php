@@ -1,4 +1,4 @@
- <!--FOOTER QUE CONTIENE INFORMACION ADICIONAL ACERCA DE CONSULTAS E INFORMACION DE CONTACTOS Y ETC-->
+<!--FOOTER QUE CONTIENE INFORMACION ADICIONAL ACERCA DE CONSULTAS E INFORMACION DE CONTACTOS Y ETC-->
 <div class="container-fluid bg-dark pt-1">
     <footer class="py-1">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">
