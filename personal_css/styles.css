@@ -1,38 +1,27 @@
 /*ESTA HOJA DE ESTILOS CONTIENE CONFIGURACIONES PERSONALIZADAS PARA LA PAGINA PRINCIPAL.HTML, LAS CUALES NO PUEDEN SER MODIFICADAS A TRAVES DE BOOTSTRAP*/
 
-#play5_controller {
-    height: 3em;
-    width: 3em;
-}
-
-#MARKET-BRAND-ICON {
-    text-align: center;
-}
-
-#GAMES-SECTION {
-    background-color: #aaf;
-}
-
-#COMPONENTS-SECTION {
-    background-color: #0f0;
+#WHO-WE-ARE{
+    background-color: #222;
 }
 
 #MAIN-SECTION {
-    background-color: #d22;
+    background-color: #222;
 }
 
-#PERIFERICS-SECTION {
-    background-color: #ff0b;
+#COMERCIALIZATION {
+    background-color: #444;
 }
 
-#CONSOLES-SECTION {
-    background-color: #0BF;
+#COMERCIALIZATION #SHIPPING {
+    text-decoration: underline;
 }
 
-#SERVICES-SECTION {
-    background-color: #0bb;
+#COMERCIALIZATION #PAYMENTS {
+    text-decoration: underline;
 }
 
-#PAGE-FOOTER {
-    background-color: #f009;
+#CATALOGUE {
+    /*BACKGROUND GENERATED VIA ONLINE TOOL*/
+    background: rgb(34,34,34);
+background: linear-gradient(180deg, rgba(34,34,34,1) 0%, rgba(117,0,0,1) 100%);
 }
