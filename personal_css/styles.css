@@ -1,6 +1,4 @@
-/*ESTA HOJA DE ESTILOS CONTIENE CONFIGURACIONES PERSONALIZADAS PARA LA PAGINA PRINCIPAL.HTML, LAS CUALES NO PUEDEN SER MODIFICADAS A TRAVES DE BOOTSTRAP*/
-
-#WHO-WE-ARE{
+#WHO-WE-ARE {
     background-color: #222;
 }
 
@@ -22,6 +20,33 @@
 
 #CATALOGUE {
     /*BACKGROUND GENERATED VIA ONLINE TOOL*/
-    background: rgb(34,34,34);
-background: linear-gradient(180deg, rgba(34,34,34,1) 0%, rgba(117,0,0,1) 100%);
+    background: rgb(34, 34, 34);
+    background: linear-gradient(180deg, rgba(34, 34, 34, 1) 0%, rgba(117, 0, 0, 1) 100%);
+}
+
+#INDEX-CATALOGUE-LIST {
+    /*Removes the dots from the list*/
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.catalogue-section {
+    padding: 1em;
+}
+
+.product-image {
+    width: 15em;
+    height: 15em;
+    margin: 0 auto;
+}
+
+.ITEM-BOX {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding: 1em;
+    margin: 1em;
 }
