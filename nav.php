@@ -1,4 +1,4 @@
-<div class="container-fluid bg-dark ">
+<div class="container-fluid sticky-top bg-dark ">
     <header class="d-flex flex-wrap justify-content-center p-2 border-bottom">
         <a href="#" class="align-items-center me-md-auto link-body-emphasis text-decoration-none text-light fs-4">Steel Technology and Games</a>
         <nav>
